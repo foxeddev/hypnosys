@@ -1,0 +1,20 @@
+{
+    hello = world;
+    single 1
+    1.a
+    .1
+    ..+
+    a.
+    one1
+    ;1one
+    two2;
+    {
+        {}+
+    }
+    2two "hello
+    this 1 is
+    in quotes {};;;" //test comment
+    /* multiline
+    comment */
+    comment end
+}

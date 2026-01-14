@@ -1,0 +1,3 @@
+# 🌀 HypNoSys
+
+{ Hyprland Notation System }
